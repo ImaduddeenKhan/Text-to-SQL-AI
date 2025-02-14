@@ -10,4 +10,4 @@ This project enables users to convert natural language queries into SQL statemen
 - Results are displayed in a tabular format with optional visualizations.
 
 ## UI Image
-
+- <a href="https://github.com/ImaduddeenKhan/Text-to-SQL-AI/blob/main/Screenshot%202025-02-06%20010647.png">UI Image</a>
